@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP_Lesson_6", "OOP_Lesson_6\OOP_Lesson_6.vcxproj", "{BA54A09B-CD97-4027-8A15-A6F56D1FF271}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ration_drob", "Ration_drob\Ration_drob.vcxproj", "{DF8BF720-7267-4B57-B858-44EE347A1DA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{BA54A09B-CD97-4027-8A15-A6F56D1FF271}.Release|x64.Build.0 = Release|x64
 		{BA54A09B-CD97-4027-8A15-A6F56D1FF271}.Release|x86.ActiveCfg = Release|Win32
 		{BA54A09B-CD97-4027-8A15-A6F56D1FF271}.Release|x86.Build.0 = Release|Win32
+		{DF8BF720-7267-4B57-B858-44EE347A1DA5}.Debug|x64.ActiveCfg = Debug|x64
+		{DF8BF720-7267-4B57-B858-44EE347A1DA5}.Debug|x64.Build.0 = Debug|x64
+		{DF8BF720-7267-4B57-B858-44EE347A1DA5}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF8BF720-7267-4B57-B858-44EE347A1DA5}.Debug|x86.Build.0 = Debug|Win32
+		{DF8BF720-7267-4B57-B858-44EE347A1DA5}.Release|x64.ActiveCfg = Release|x64
+		{DF8BF720-7267-4B57-B858-44EE347A1DA5}.Release|x64.Build.0 = Release|x64
+		{DF8BF720-7267-4B57-B858-44EE347A1DA5}.Release|x86.ActiveCfg = Release|Win32
+		{DF8BF720-7267-4B57-B858-44EE347A1DA5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
